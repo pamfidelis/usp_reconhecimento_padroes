@@ -1,0 +1,1 @@
+# usp_reconhecimento_padroes
