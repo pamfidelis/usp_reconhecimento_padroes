@@ -1,2 +1,3 @@
-*.ipynb
+#Jupyter
+.ipynb
 .ipynb_checkpoints
